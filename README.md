@@ -209,3 +209,6 @@ Once your pod is up and running, run the port-forward to expose the service
 ```bash
 kubectl port-forward service/<service_name> 5000:5000
 ```
+
+## **Application interface**
+![alt text](<WhatsApp Image 2024-11-28 at 16.38.34_438f84df.jpg>)
