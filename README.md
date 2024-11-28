@@ -1,4 +1,4 @@
-# **# "Real-Time System Monitoring Application using Flask, Boto3, Docker, ECR, and EKS Deployment"!**
+# **# "Real-Time System Monitoring Cloud Native Application using Flask, Boto3, Docker, ECR, and EKS Deployment"!**
 ## **Description**
 Developed a Python Flask application that monitors system CPU and memory usage in real-time, providing insights into system performance.
 
