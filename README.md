@@ -1,6 +1,6 @@
-# **# CPU and Memory Monitoring App Using Pthon, Docker, ECR, and EKS Deployment!**
+# **# "Real-Time System Monitoring Application using Flask, Boto3, Docker, ECR, and EKS Deployment"!**
 ## **Description**
-This project aims to create a CPU and Memory Monitoring Application in Python, which collects real-time system performance metrics and displays them in an easy-to-read format. The app is built using Python and is containerized with Docker for easy deployment. After containerization, the app is pushed to Amazon Elastic Container Registry (ECR), and then deployed on Amazon Elastic Kubernetes Service (EKS) using the Python boto3 SDK.
+Developed a Python Flask application that monitors system CPU and memory usage in real-time, providing insights into system performance.
 
 ## **Prerequisites** !
 
